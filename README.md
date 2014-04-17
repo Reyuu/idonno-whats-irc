@@ -5,8 +5,8 @@
 No screenshot ATM.
 
 Clients bulid on iWi:
-* [iWi GUI](https://github.com/Reyuu/idonno-whats-irc/tree/tkinter/)
-* [iWi CLI](https://github.com/Reyuu/idonno-whats-irc/tree/curses/)
+* [iWi GUI](https://github.com/Reyuu/iwi-gui)
+* [iWi CLI](https://github.com/Reyuu/iwi-cli)
 
 ###Commands:
 | Command | Parameters  | Description |
